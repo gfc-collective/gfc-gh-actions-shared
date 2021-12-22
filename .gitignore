@@ -1,2 +1,9 @@
+project/project/
+project/target/
+target/
+test-output/
+.idea/
+.bsp/
 *.class
 *.log
+out
